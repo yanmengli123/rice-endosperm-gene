@@ -1,0 +1,30 @@
+{
+  "http_archives_verified": 7584,
+  "funplant_source_sequence_records_verified": 24972,
+  "funplant_unique_ids": true,
+  "source_data_retained_without_sequence_substitution": true,
+  "funPlantGenes/FunPlantGenes_Oryza_sativa.xlsx": {
+    "all_cells_checked": 1009899,
+    "untouched_cells_preserved": true,
+    "patches_verified": 7
+  },
+  "GrameneOryza/GrameneOryza_Curated_Nipponbare_5707_enriched.xlsx": {
+    "all_cells_checked": 289649,
+    "untouched_cells_preserved": true,
+    "patches_verified": 3
+  },
+  "passed": true,
+  "official_sync_completed_at": "2026-10-28T21:59:47.086972+08:00",
+  "cleanup_status": "complete",
+  "source_archive_policy": "Original HTTP caches and backups removed at user request; final data and source URLs/times/hashes retained.",
+  "cleanup_completed_at": "2026-10-28T22:19:32.2278134+08:00",
+  "cleanup_result": {
+    "mode": "Windows Recycle Bin",
+    "recycled_files": 30319,
+    "recycled_bytes": 1274667641.0,
+    "protected_files_hash_verified": 68,
+    "code_scripts": 5,
+    "cache_or_backup_leftovers": 0,
+    "shared_runtime_modules_unchanged": true
+  }
+}

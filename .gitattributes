@@ -1,0 +1,3 @@
+# Preserve exact bytes for all data and documents (no EOL conversion),
+# because FINAL_FILES_SHA256.json certifies byte-level integrity.
+* -text

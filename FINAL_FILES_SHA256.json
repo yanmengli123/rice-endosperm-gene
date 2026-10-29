@@ -1,0 +1,377 @@
+[
+  {
+    "path": "code\\build_gramene_excel.py",
+    "bytes": 24748,
+    "sha256": "a8a38a99e19bfab06395ad359d8529f10b9c9d6e82032afc450dc553074b79c9"
+  },
+  {
+    "path": "code\\GrameneOryza_5707_已核实接口_批量下载.py",
+    "bytes": 5568,
+    "sha256": "beeb1293375af41c6d3c4b93661c26081e732926a43905986da9ae45bdfa7671"
+  },
+  {
+    "path": "code\\README.md",
+    "bytes": 1260,
+    "sha256": "7c2c5543e89c41ba8ace5241817b42f8c2b1e2ef10ab3d0a56fe0ce8850808fd"
+  },
+  {
+    "path": "code\\requirements.txt",
+    "bytes": 45,
+    "sha256": "2a8daf2fc4e70a2440b747d19c41a18632749a91916d3a5f9dde81b3c27bd731"
+  },
+  {
+    "path": "code\\scrape_agri_genes.py",
+    "bytes": 24370,
+    "sha256": "f6f0e700f1a169da67395a820d6c62227753b418fd58b431116338547b3ebb70"
+  },
+  {
+    "path": "code\\scrape_curated_genes.py",
+    "bytes": 24081,
+    "sha256": "637159f1d1faa97ea3dfd42cfcfcc9d461b52bf2dd68a694abd71e8725cf896e"
+  },
+  {
+    "path": "code\\scrape_funplantgenes.py",
+    "bytes": 46798,
+    "sha256": "72afd4a7276550ec8ff951ae25e7c84e88516d86e93f300bfcebea3e6300687c"
+  },
+  {
+    "path": "DATA_AUDIT.md",
+    "bytes": 3162,
+    "sha256": "d79bbb9fa68f5466ef7ebf50234ecaafd16fd91d8d2fc34b64b701ea38f9dea8"
+  },
+  {
+    "path": "FINAL_VALIDATION.json",
+    "bytes": 1136,
+    "sha256": "a672692c5d906466baff2ad3fbb9716cea7a4195af9049ba0a2a2ea81fe0e72c"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa_genes.csv",
+    "bytes": 7865356,
+    "sha256": "312932f6118f91546d6131e67a5e68ed0ce8261f87b4dd47926f62fdf28d3c04"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa_homologs.csv",
+    "bytes": 3288996,
+    "sha256": "07a234313a181799f1b0e9569e63373d122cfcb42f3cc663ef7c7813f992c7b5"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa_keywords.csv",
+    "bytes": 1276990,
+    "sha256": "a4e1445b04dfcdbdaaf42cefa731421971e89e2dcf766fd53b44d45e348bc0c9"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa_literature.csv",
+    "bytes": 2317589,
+    "sha256": "5ebc848d90693a43076366c0db092decfd62dc3182cb1d7b12e2edea57fad9fe"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa_resources.csv",
+    "bytes": 5415660,
+    "sha256": "f4c0ec0727a6f8e3468c86ffea3ccd67b53422330432795fdeb04e9a919d7eb6"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa_sequences.csv",
+    "bytes": 4347588,
+    "sha256": "d3d84e0c8f74bf438dca20bb5b69f165591c4bd3809021668d84867e55ea3b85"
+  },
+  {
+    "path": "funPlantGenes\\FunPlantGenes_Oryza_sativa.xlsx",
+    "bytes": 9833014,
+    "sha256": "65aed715b4da74e3d19b14455a284e542ec6b1b65fda0a898c477adc96ab65b2"
+  },
+  {
+    "path": "funPlantGenes\\official_fasta\\sequences_cdna.fa",
+    "bytes": 15161232,
+    "sha256": "1ae1029a02aad9a21548a6295f542ce16df05558148290b26f929fb1660d9bcf"
+  },
+  {
+    "path": "funPlantGenes\\official_fasta\\sequences_cds.fa",
+    "bytes": 10965567,
+    "sha256": "34acbef20a95ac94c36ca8c4a3e13b960f1df2746c98af7cd09be5f748b8c626"
+  },
+  {
+    "path": "funPlantGenes\\official_fasta\\sequences_dna.fa",
+    "bytes": 61016,
+    "sha256": "aca77605339aa4d56999860a0dcdf57dfc7e37474db11582594e753937d01142"
+  },
+  {
+    "path": "funPlantGenes\\official_fasta\\sequences_protein.fa",
+    "bytes": 5439459,
+    "sha256": "8f0b8e223803f50e2e80c1fc59bd52a621bcecf9a30bb32076700053784a0042"
+  },
+  {
+    "path": "funPlantGenes\\official_records.jsonl.gz",
+    "bytes": 12129182,
+    "sha256": "0f97370343bb797eec776329976f3ad385a4c3b792f62ab8a1a410136576d0aa"
+  },
+  {
+    "path": "funPlantGenes\\README.md",
+    "bytes": 1730,
+    "sha256": "1168e9ff41de55eea4bb3ba68c1c9c807bf0fb9f6bb597566a2d33344d47d904"
+  },
+  {
+    "path": "funPlantGenes\\sequences_cdna.fa",
+    "bytes": 15624952,
+    "sha256": "713470b8923f2ceb8863549d64f73e702b64797259bdc9dcaaaef5be3b5391c5"
+  },
+  {
+    "path": "funPlantGenes\\sequences_cds.fa",
+    "bytes": 11458073,
+    "sha256": "3235d6920f809b0f6f40a048b18fcecb1c92ab43638285dec9f045e348c4e952"
+  },
+  {
+    "path": "funPlantGenes\\sequences_dna.fa",
+    "bytes": 62038,
+    "sha256": "cc27406c1e4079e6af6a64532d8fdfadca89315f5dabb4a429e1a3ec5def7508"
+  },
+  {
+    "path": "funPlantGenes\\sequences_protein.fa",
+    "bytes": 6119949,
+    "sha256": "20ab29112609b9866f89702a0b95845feea270382766350ae833b7e5caeedb4b"
+  },
+  {
+    "path": "funPlantGenes\\SOURCE_ISSUES.csv",
+    "bytes": 403487,
+    "sha256": "d7dd9f0915b326be8662a38b01cde9b17dc638c78b9f097d761df2b69866bc7e"
+  },
+  {
+    "path": "funPlantGenes\\SOURCE_PAGES.json",
+    "bytes": 1549264,
+    "sha256": "92b6e7db50b2c5158cd24eb691d718379611430d198e123e02253adaa51d74be"
+  },
+  {
+    "path": "FunRiceGenes\\geneInfo.table.txt",
+    "bytes": 168335,
+    "sha256": "42780812a525bb97dc6a7e5d231b3c1052326297bdc40dd5c80d79b72648b5b3"
+  },
+  {
+    "path": "FunRiceGenes\\geneKeyword.table.txt",
+    "bytes": 15189535,
+    "sha256": "f8afbb50298442cdd3689d3c5c015348e2c62b08d7de6ba7a7dd2ab196456210"
+  },
+  {
+    "path": "FunRiceGenes\\README.md",
+    "bytes": 1025,
+    "sha256": "3c14f1fe40c063b73a5e465111322ab8e790c3b221786685e62f1abceeff5802"
+  },
+  {
+    "path": "FunRiceGenes\\reference.table.txt",
+    "bytes": 14671997,
+    "sha256": "4a1422447ebefbe51a10ded06593c22d631f20a01e1d59b3e3f0bed840dd90f6"
+  },
+  {
+    "path": "FunRiceGenes\\utf8\\geneInfo.table.txt",
+    "bytes": 168338,
+    "sha256": "8b010a58c90b518502275f87b4a648c02f494a7369ad5d049b18a4bf7dcb1334"
+  },
+  {
+    "path": "FunRiceGenes\\utf8\\geneInfo.table.txt.encoding.json",
+    "bytes": 181,
+    "sha256": "24eeb3fdc072e8c1f4de0c0b7963752e56bbbb272ae5af54ebb0fabd8754efcb"
+  },
+  {
+    "path": "FunRiceGenes\\utf8\\geneKeyword.table.txt",
+    "bytes": 15189706,
+    "sha256": "8b70993a3119936828232a836f3e9de780716a8e9f2e758d4291c3f0eb0c1d29"
+  },
+  {
+    "path": "FunRiceGenes\\utf8\\geneKeyword.table.txt.encoding.json",
+    "bytes": 23216,
+    "sha256": "443c2faf71bd45e10dc2f447bff502cfc91867106ab542bce79e08b65a3fffb8"
+  },
+  {
+    "path": "FunRiceGenes\\utf8\\reference.table.txt",
+    "bytes": 14673502,
+    "sha256": "4a91bac5ecc4f038ce329808556e8e2c24720d4a61e03101e4d7e1fc0dec7cc4"
+  },
+  {
+    "path": "FunRiceGenes\\utf8\\reference.table.txt.encoding.json",
+    "bytes": 214629,
+    "sha256": "5cef20066ad090f5fb8abd71481c0a0901869ab55e237f4ad263d54609c0760c"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707_enriched_genes.csv",
+    "bytes": 3128507,
+    "sha256": "513151727dcaf0cf39e7ccc817c73023734e61559be0789b6f027c8b63f8edca"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707_enriched.xlsx",
+    "bytes": 3328149,
+    "sha256": "56c0e3a9d1aa07176699557349a6bac53f6178e69a0b14809463c696978ae25c"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707_full.json",
+    "bytes": 11890636,
+    "sha256": "975eeeeb8cb6bc74d1960ab399edd6348a81d11ec1a5226015593efadeb65c6c"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707_pmids.csv",
+    "bytes": 679175,
+    "sha256": "7ebdb2d8ee86bba54c29acf757278c9fef4835c4340b7ca1edd0bbd29c1bf347"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707_publications.csv",
+    "bytes": 1820519,
+    "sha256": "62855badd118346999cf49cf777c286b6f1819fcf9faa3dd5a03630dff61e186"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707_raw.json",
+    "bytes": 4408828,
+    "sha256": "0c801be54b81817eedafab61340c0b9545c197a4ea68ae25ff71b22b0b8f9511"
+  },
+  {
+    "path": "GrameneOryza\\GrameneOryza_Curated_Nipponbare_5707.tsv",
+    "bytes": 1141519,
+    "sha256": "98a89dc173459eb7cf02564077557c87b9e927574f5601f4edca82be2076f851"
+  },
+  {
+    "path": "GrameneOryza\\pubmed_metadata.json",
+    "bytes": 2602020,
+    "sha256": "25caa2d9e38d95ad2a72444096c0ebb2ed92b6adc9fb84fe54a9f1a6697e95d2"
+  },
+  {
+    "path": "KitBase\\Genes-Affected-1504lines.xlsx",
+    "bytes": 2163336,
+    "sha256": "1f45c3cadfec0e9b44b97d0fec8b24fd4f4901f6ea01280b169811a65441d215"
+  },
+  {
+    "path": "KitBase\\Genes-Mutated-by-Loss-of-Function-Mutations-1504lines.xlsx",
+    "bytes": 1790614,
+    "sha256": "5f4ba73c99b89b2279c0f30c617e499c642ab37deb2bb1fe882fead8053531d9"
+  },
+  {
+    "path": "KitBase\\Mutations-Identified-1504lines.xlsx",
+    "bytes": 3940017,
+    "sha256": "a1ef355cc357a5481e8cb55cee6ddb1f5d725204fa74782b26f2096e8561b5c6"
+  },
+  {
+    "path": "KitBase\\Phenotype.xlsx",
+    "bytes": 200515,
+    "sha256": "e12b3088dd491e70a5664725a86c68f24e9ebdbc9df6c5b61dee2d23c868ed8f"
+  },
+  {
+    "path": "OFFICIAL_SOURCE_MANIFEST.json",
+    "bytes": 1901157,
+    "sha256": "2dcea0112877ddcd1870e5fca411f16ca0fca23fcf7f1c02992641efb37a6175"
+  },
+  {
+    "path": "Oryzabase\\Character as QTL - Grain quality.txt",
+    "bytes": 315328,
+    "sha256": "ee3d6285df0221afa3b7ac3923939a1ffe5bb47e024c9ad21e009c5405defbfe"
+  },
+  {
+    "path": "Oryzabase\\Character as QTL - Yield and productivity.txt",
+    "bytes": 1204937,
+    "sha256": "ddc7c0674bf20ab36226cfe57aeb72676e77352c174629cdc3e157527780fadb"
+  },
+  {
+    "path": "Oryzabase\\Seed - Morphological traits - Endosperm.txt",
+    "bytes": 191417,
+    "sha256": "f510b6f53c8348c40a3959b2536dc4a1a3c6cffc0b955f1cc8ec2a3078b190ac"
+  },
+  {
+    "path": "Oryzabase\\Seed - Morphological traits - Grain shape.txt",
+    "bytes": 752623,
+    "sha256": "9ff837055cf6b19448971ffb6ad5c31bf9a354249489d1c036298a8a0bd498a3"
+  },
+  {
+    "path": "Oryzabase\\Seed - Physiological traits - Storage substances.txt",
+    "bytes": 376540,
+    "sha256": "65bd3b302ede1c1d288b8c55f9ec0126440856aad8050f7f0f5dc3d5047753a2"
+  },
+  {
+    "path": "Oryzabase\\Seed - Physiological traits - Taste.txt",
+    "bytes": 46295,
+    "sha256": "19ca9e51a6f6f3e04d7a42dd1e99ddd2b314d873a7d2f0c0f83a7707133d2a4a"
+  },
+  {
+    "path": "RAP-DB\\Agri. genes\\agri_genes.json",
+    "bytes": 1397267,
+    "sha256": "798b0766be73e63918ad75f788df101a82978a8b581df51b69cbda70cc9bd84a"
+  },
+  {
+    "path": "RAP-DB\\Agri. genes\\RAPDB_Agri_Genes_endosperm_hits.xlsx",
+    "bytes": 51567,
+    "sha256": "2d897ec589b5bbbd4f5c6cab21715b927d84d8810f44376b30b0b014d5e051f7"
+  },
+  {
+    "path": "RAP-DB\\Agri. genes\\RAPDB_Agri_Genes_references.csv",
+    "bytes": 511064,
+    "sha256": "dc5ed0d2af2f2f2743ba2a94b905658b528e3a4f1419f3eac361fe160ae61904"
+  },
+  {
+    "path": "RAP-DB\\Agri. genes\\RAPDB_Agri_Genes.csv",
+    "bytes": 930271,
+    "sha256": "59b0807a37631f4ecbc690a91394315c047c52dab2acc78cb44844caf3d50c35"
+  },
+  {
+    "path": "RAP-DB\\Agri. genes\\RAPDB_Agri_Genes.xlsx",
+    "bytes": 922953,
+    "sha256": "28c5fbc09c10dd4e6603df055745a7ea3a6e46930fc798b7bc7670f3b2160190"
+  },
+  {
+    "path": "RAP-DB\\Curated genes\\curated_genes.json",
+    "bytes": 7230266,
+    "sha256": "029b3a2ab2737e801046daf6735f81b8e1ea813f28407f011eabeea4faf40b01"
+  },
+  {
+    "path": "RAP-DB\\Curated genes\\RAPDB_Curated_Genes_endosperm_hits.xlsx",
+    "bytes": 131648,
+    "sha256": "04de2f801374e661a68bb9ec0cc28239be56af1d1464d559fbabf7d9c0279aad"
+  },
+  {
+    "path": "RAP-DB\\Curated genes\\RAPDB_Curated_Genes_references.csv",
+    "bytes": 2818253,
+    "sha256": "09dc66419a51093f8d5dc6803a9ecd9f9a9a7170986c77f542c1dc124acd30be"
+  },
+  {
+    "path": "RAP-DB\\Curated genes\\RAPDB_Curated_Genes.csv",
+    "bytes": 4924424,
+    "sha256": "ab364e1f4f7b849b5d6dd0b0ca36c60dc7794b6dab2a64f34286ff06376b3405"
+  },
+  {
+    "path": "RAP-DB\\Curated genes\\RAPDB_Curated_Genes.xlsx",
+    "bytes": 4499986,
+    "sha256": "c29bb354fc01401fd074a685be1eaf308918354f8b67a91921135cd9ed5c6592"
+  },
+  {
+    "path": "RAP-DB\\IRGSP-1.0_representative_annotation_2026-02-05.tsv",
+    "bytes": 15632285,
+    "sha256": "9129c8110cacffd987ec25fad231ca48a7b7c205e1beb1a19c6301ce1fc59724"
+  },
+  {
+    "path": "RAP-DB\\RAP-MSU_2026-02-05.txt.gz",
+    "bytes": 314930,
+    "sha256": "75f3c7c2b81837ee0ec94c17b73ba36ae6e7c3f93192840399e8887553c77e00"
+  },
+  {
+    "path": "README_DATA.md",
+    "bytes": 3333,
+    "sha256": "d8095f8754c5ee15f2c16cd76e30bedbd523509e526cf8b9baf2a42600403a37"
+  },
+  {
+    "path": "TRIM\\gix055_Supplement-Tables\\Table S1 The T1 lines screened since 2002.docx",
+    "bytes": 15144,
+    "sha256": "3735ff3d370563dd9bd9e12b742f2a015d4fa5e263e7726fa3060152761e2d83"
+  },
+  {
+    "path": "TRIM\\gix055_Supplement-Tables\\Table S2 Classification of observed phenotypes.docx",
+    "bytes": 15305,
+    "sha256": "4cc154f14e65cb991b30b869e756f86d24f01ddd39c514260deca74983dd3eb8"
+  },
+  {
+    "path": "TRIM\\gix055_Supplement-Tables\\Table S5 Supplementary materials authors.docx",
+    "bytes": 31484,
+    "sha256": "8583f48aca4f8b1f86fa5173df3cf966370848a5c1d9575467c7e44fe385131e"
+  },
+  {
+    "path": "TRIM\\gix055_Supplement-Tables\\Table_S4_konckout.xlsx",
+    "bytes": 1179731,
+    "sha256": "f89fb0b3f7f0446f9cf156f30fd7e6e2e908ca9cbf2d8460614426f620c58d83"
+  },
+  {
+    "path": "TRIM\\gix055_Supplement-Tables\\TRIM_Table_S3.xlsx",
+    "bytes": 3683667,
+    "sha256": "46226557b67b665acb1297a5579fb26e508ccf5f550ff9d5d39070b39bfbfd77"
+  }
+]

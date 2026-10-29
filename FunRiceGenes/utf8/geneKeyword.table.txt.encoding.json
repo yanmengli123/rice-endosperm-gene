@@ -1,0 +1,968 @@
+{
+  "source_sha256": "f8afbb50298442cdd3689d3c5c015348e2c62b08d7de6ba7a7dd2ab196456210",
+  "source_bytes": 15189535,
+  "data_rows": 45929,
+  "reversible": true,
+  "substitutions": [
+    {
+      "character_offset": 59287,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59288,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59400,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59401,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59580,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59581,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59693,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 59694,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 688637,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 688638,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 689109,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 689110,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 689573,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 689574,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690044,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690045,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690507,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690508,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690770,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690771,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690908,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 690909,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 691171,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 691172,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 695367,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 695368,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 695781,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 695782,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 696181,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 696182,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 696496,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 696497,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 696876,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 696877,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697140,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697141,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697216,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697217,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697480,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697481,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697564,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697565,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697828,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 697829,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540235,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540236,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540384,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540385,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540580,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540581,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540914,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1540915,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541090,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541091,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541336,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541337,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541485,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541486,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541692,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541693,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541868,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1541869,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542114,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542115,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542263,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542264,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542467,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542468,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542807,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542808,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542956,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1542957,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1543158,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1543159,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1543334,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1543335,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1543576,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1543577,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1897558,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1897559,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1897852,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 1897853,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4720710,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4720711,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4720742,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4720743,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4722839,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4722840,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4722871,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 4722872,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 6017991,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 6017992,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 6018933,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 6018934,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 6019689,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 6019690,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7373989,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7373990,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7374102,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7374103,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7374274,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7374275,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7374387,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 7374388,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8470898,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8470899,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471091,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471092,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471420,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471421,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471613,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471614,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471941,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8471942,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8472134,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 8472135,
+      "original_byte_hex": "c3",
+      "decoded_character": "Ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9661797,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9661798,
+      "original_byte_hex": "c4",
+      "decoded_character": "Ä",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9662130,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9662131,
+      "original_byte_hex": "c4",
+      "decoded_character": "Ä",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9662432,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9662433,
+      "original_byte_hex": "c4",
+      "decoded_character": "Ä",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9662768,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9662769,
+      "original_byte_hex": "c4",
+      "decoded_character": "Ä",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9663068,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 9663069,
+      "original_byte_hex": "c4",
+      "decoded_character": "Ä",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10058970,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10058971,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10058992,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10058993,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10059329,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10059330,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10059351,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10059352,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060326,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060327,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060348,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060349,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060684,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060685,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060706,
+      "original_byte_hex": "e2",
+      "decoded_character": "â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 10060707,
+      "original_byte_hex": "80",
+      "decoded_character": "€",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11529373,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11529374,
+      "original_byte_hex": "c1",
+      "decoded_character": "Á",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11807833,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11807834,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11809313,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11809314,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11810857,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 11810858,
+      "original_byte_hex": "c2",
+      "decoded_character": "Â",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14581259,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14581260,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14581353,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14581354,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14581953,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14581954,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14582047,
+      "original_byte_hex": "a1",
+      "decoded_character": "¡",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14582048,
+      "original_byte_hex": "e3",
+      "decoded_character": "ã",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14582559,
+      "original_byte_hex": "a6",
+      "decoded_character": "¦",
+      "codec": "windows-1252"
+    },
+    {
+      "character_offset": 14582560,
+      "original_byte_hex": "b7",
+      "decoded_character": "·",
+      "codec": "windows-1252"
+    }
+  ]
+}
